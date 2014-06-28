@@ -139,7 +139,7 @@
             <t>Profile URI: http://dublincore.org/documents/2008/08/04/dc-html/</t>
             <t>Common Name: Dublin Core HTML metadata profile</t>
             <t>Description: A set of conventions by which a Dublin Core
-              metadata description set can be can be represented within an
+              metadata description set can be represented within an
               (X)HTML web page using (X)HTML elements and attributes.</t>
             <t>Reference: <xref target="DC-HTML" /></t>
           </list>
